@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Searchable",
+        "description": "Find me here",
+        "start_time": "2025-07-01 09:00",
+        "end_time": "2025-07-01 10:00",
+        "recurring": null
+    },
+    {
+        "id": 2,
+        "title": "Team Meeting",
+        "description": "Monthly sync-up",
+        "start_time": "2025-06-29 14:00",
+        "end_time": "2025-06-29 15:00",
+        "recurring": null
+    }
+]
